@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+### 🔭 I’m currently persuing... B.Tech
+### 🌱 I’m currently learning ...Frontend
+### 👯 I’m looking to collaborate on ...web development
+### 📫 How to reach me: ...riyachoudhary3105@gmail.com
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrv&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyac31&layout=compact&theme=radical&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
@@ -13,12 +17,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently persuing... B.Tech
+- 🌱 I’m currently learning ...Frontend
+- 👯 I’m looking to collaborate on ...web development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...riyachoudhary3105@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
